@@ -26,6 +26,9 @@ bash <(wget --no-check-certificate -qO- https://github.com/MoeClub/lotServer/raw
 
 使用方法:
 启动命令 /appex/bin/lotServer.sh start
+
 停止加速 /appex/bin/lotServer.sh stop
+
 状态查询 /appex/bin/lotServer.sh status
+
 重新启动 /appex/bin/lotServer.sh restart  
